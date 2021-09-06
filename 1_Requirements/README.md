@@ -32,9 +32,9 @@ Since the system uses only open source software, it is free of cost.
 * Library Managemnet System does the following functions:
     + Add book in database
     + Search for a book
-    + View a book
-    + Delete a book
-    + Update Credentials
+    + View entire database
+    + Stock Check
+    + Issue a book
 
 ## SWOT ANALYSIS
 
@@ -47,7 +47,7 @@ This project can be used by all the education institutions and public librares. 
 
 ## What:
 
-Basic library management system which helps both the student and the librarian to access the books.
+Basic library management system which helps the librarian to access the books.
 
 ## When:
 
@@ -59,7 +59,7 @@ In education institutions, public libraries and in-house library.
 
 ## How:
 
-In this project, we can do basic library management task like adding the book, view the added book, search the books, update credentials and delete a book. This application is based on file handling in C, where I have used a file-related function like fopen, fread, fwrite.
+In this project, we can do basic library management task like adding the book, view the added book, search the books, check the stock available and issue a book. This application is based on file handling in C, where I have used a file-related function.
 
 # Detail requirements
 ## High Level Requirements:
@@ -68,19 +68,18 @@ In this project, we can do basic library management task like adding the book, v
 | --- | --- | --- |
 | HR01 | User must be able to add books | Implemented |
 | HR02 | User must be able to search books | Implemented |
-| HR03 | User must be able to view books | Implemented |
-| HR04 | User must be able to delete book | Implemented |
-| HR05 | User must be able to update credentials | Implemented |
-| HR06 | User must be able to do payment for the books received| Future |
-| HR07 | Data should be kept secure and no loss of data should be there| Future |
+| HR03 | User must be able to view books stored in the database | Implemented |
+| HR04 | User must be able to check the stock of particluar book| Implemented |
+| HR05 | User must be able to Issue a book| Partially Implemented |
+| HR06 | User must be able to receive fine for delay in submission of book| Future |
+| HR07 | User must be able to give access to students to check the avilability of books| Future |
 
 ##  Low level Requirements:
 
 | ID | Description | Status |
 | --- | --- | --- |
-| LR01 | Verify whether a file has been created or not |Implemented |
-| LR02 | Checks whether the user name, author name are valid or not | Implemented |
-| LR03 | Checks whether the format of the date is correct or not | Implemented |
-| LR04 | Create a menu function to display the library menu and ask the user to select the required option | Implemented |
-| LR05 | Make password secure | Future |
-| LR06 | Backup availability | Future |
+| LR01 | Create a menu function to display the library menu and ask the user to select the required option|Implemented |
+| LR02 | Verify wheater a file is created or not| Implemented |
+| LR03 | Checks whether the format of the date is correct or not | Future|
+| LR04 | Make password secure | Future |
+| LR05 | Backup availability | Future |
