@@ -72,7 +72,7 @@ In this project, we can do basic library management task like adding the book, v
 | HR04 | User must be able to check the stock of particluar book| Implemented |
 | HR05 | User must be able to Issue a book| Partially Implemented |
 | HR06 | User must be able to receive fine for delay in submission of book| Future |
-| HR07 | User must be able to give access to students to check the avilability of books| Future |
+| HR07 | User must be able to maintain the record of issued books like when,whom etc| Future |
 
 ##  Low level Requirements:
 
