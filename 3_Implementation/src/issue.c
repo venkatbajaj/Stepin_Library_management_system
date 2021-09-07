@@ -1,6 +1,6 @@
 #include"lms.h"
 
-void issue()
+int issue()
 {
     int i;
     char Target[500];
@@ -46,4 +46,5 @@ void issue()
              printf("\nStock Not avilable\n");
          }
     }
+    return Found;
 }
