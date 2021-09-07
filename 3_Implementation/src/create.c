@@ -1,8 +1,9 @@
 #include"lms.h"
 
-void create(void)
+int create()
 {
     int i,c,n;
+    int Found=0;
     printf("\n\nPlease enter the number of books you want to enter in your database\n\n");
     printf("No.:");
     scanf("%d",&n);
@@ -32,6 +33,7 @@ void create(void)
     fclose(fp);                                                               
     fprintf(stdout,"\n\n");
     system("cls");
+    Found++;
 
     printf("\n\nThanks , Your Data Has Been Stored\n");
 
@@ -43,5 +45,5 @@ void create(void)
         main();
     else
         exit1();
-
+return Found;
 }
