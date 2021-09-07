@@ -3,7 +3,8 @@
 ## Introduction
 
 * With the advancement of technology, library need to be ready for change and bring the technology to the library in order to retain their customer’s interest in visiting the library. Thus, in this situation, library’s system should be improved as well to facilitate staff or librarian in doing their work effectively.
-* Library management system helps both students and library manager to keep a constant track of all the books available in the library. It allows both the admin and the student to search for the desired book. It becomes necessary for colleges to keep a continuous check on the books issued and returned. When we need to issue a book or collect a book we usually need to stand in long queue and wait for many hours, this system helps us to overcome the problem.
+* The purpose of a library management system is to operate a library with efficiency and at reduced costs. The system being entirely automated streamlines all the tasks involved in operations of the library. The activities of book purchasing, cataloging, indexing, circulation recording and stock checking are done by the software. Such software eliminates the need for repetitive manual work and minimizes the chances of errors.
+* The library management system software helps in reducing operational costs. Managing a library manually is labor intensive and an immense amount of paperwork is involved. An automated system reduces the need for manpower and stationery. This leads to lower operational costs.
 * This project helps me to extensively use file handling techniques and understand multiple C programming concepts.
 
 ## Research
