@@ -1,6 +1,6 @@
 #include"lms.h"
 
-void search(void)
+int search(void)
 {
     int a,c;
     printf("\n\nSearch from below options:\n\n");
@@ -50,7 +50,7 @@ void search(void)
 
 }
 
-void title(void)
+int title()
 {
     int i;
     char Target[25];
@@ -77,10 +77,10 @@ void title(void)
             printf("\n\n! There is no such Entry....\n\n");
         fclose(fp);                                                          
     }
-
+return Found;
 }
 
-void author(void)
+int author()
 {
     int i;
     char Target[500];
@@ -112,4 +112,5 @@ void author(void)
         printf("\n%d %s %s %d\n",&book.bookid,book.booktitle,book.bookauthor,&book.stockavailable); 
         }
     }
+    return Found;
 }
