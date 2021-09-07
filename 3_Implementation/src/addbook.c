@@ -22,7 +22,7 @@ int Found=0;
     return Found;
 }
 
-int displaycomplete()
+int display()
 {
     int Found=0;
     char info[500];
