@@ -18,17 +18,17 @@ int main(void)
     int a,c;
     printf("\nWelcome to operations section\n");
     printf("\nSelect a particular operation and enter it's Number\n\n");
-    printf("1-Add a new book\n");
-    printf("2-Search a particular book\n");
-    printf("3-Check the stock available\n");
-    printf("4-Display the complete database\n");
-    printf("5- create database\n");
+    printf("1-create database\n");
+    printf("2-Add a new book\n");
+    printf("3-Search a particular book\n");
+    printf("4-Check the stock available\n");
+    printf("5-Display the complete database\n");
     printf("6-issue Book\n");
     printf("\nnumber:\n");
     scanf("%d",&a);
     switch(a)
     {
-        case 1:addbook();
+        case 2:addbook();
         system("cls");
 
         printf("\n\nThe new book has been added\n\n");
@@ -41,12 +41,12 @@ int main(void)
             exit1();
         break;
 
-        case 2:search();
+        case 3:search();
 
         break;
 
 
-        case 3:stock();
+        case 4:stock();
         system("cls");
 
         printf("\n\nPress 0 to main menu or press 1 to exit\n");
@@ -59,7 +59,7 @@ int main(void)
         break;
 
 
-        case 4:
+        case 5:
         system("cls");
         displaycomplete();
         printf("\nThe display is complete\n");
@@ -72,7 +72,7 @@ int main(void)
             exit1();
         break;
         
-        case 5:create();
+        case 1:create();
         system("cls");
 
         printf("\n\nPress 0 to main menu or press 1 to exit\n");
