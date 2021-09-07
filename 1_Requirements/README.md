@@ -2,8 +2,8 @@
 
 ## Introduction
 
-* With the advancement of technology, library need to be ready for change and bring the technology to the library in order to retain their customer’s interest in visiting the library. Thus, in this situation, library’s system should be improved as well to facilitate staff or librarian in doing their work effectively.
-* The purpose of a library management system is to operate a library with efficiency and at reduced costs. The system being entirely automated streamlines all the tasks involved in operations of the library. The activities of book purchasing, cataloging, indexing, circulation recording and stock checking are done by the software. Such software eliminates the need for repetitive manual work and minimizes the chances of errors.
+* With the advancement in technology,library should bring the change and add new technologies in order to retain customers intrest in visiting the library.Thus in this situation, Library system must be improved and make work easy for staff.  
+* The purspose of LMS is to operate library at reduced cost and efficiently.The system being entirely automated the tasks involved in operaations of library is displayed. The activities of maintaining the books record ,stock checking,storing the records of new books are done by software. Such software reduces human effort and eliminates the need for repetitive manual work and minimizes the chance of errors.
 * The library management system software helps in reducing operational costs. Managing a library manually is labor intensive and an immense amount of paperwork is involved. An automated system reduces the need for manpower and stationery. This leads to lower operational costs.
 * This project helps me to extensively use file handling techniques and understand multiple C programming concepts.
 
@@ -80,7 +80,7 @@ In this project, we can do basic library management task like adding the book, v
 | ID | Description | Status |
 | --- | --- | --- |
 | LR01 | Create a menu function to display the library menu and ask the user to select the required option|Implemented |
-| LR02 | Verify wheater a file is created or not| Implemented |
+| LR02 | Create a file| Implemented |
 | LR03 | Checks whether the format of the date is correct or not | Future|
 | LR04 | Make password secure | Future |
 | LR05 | Backup availability | Future |
