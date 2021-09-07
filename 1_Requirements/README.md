@@ -37,7 +37,7 @@ Since the system uses only open source software, it is free of cost.
     + Issue a book
 
 ## SWOT ANALYSIS
-![SWOT ANALYSIS](https://github.com/venkatbajaj/StepIn_Library_management_system/main/1_Requirements/SWOT.png)
+![SWOT ANALYSIS](https://github.com/venkatbajaj/StepIn_Library_management_system/blob/main/1_Requirements/SWOT.png)
 
 # 4W&#39;s and 1&#39;H
 
