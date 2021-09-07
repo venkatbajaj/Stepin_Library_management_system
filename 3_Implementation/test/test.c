@@ -2,7 +2,7 @@
 #include "fun.h"
 #define PROJECT_NAME "LibraryManagement"
 
-void test_displaycomplete(void);
+void test_display(void);
 void test_addbook(void);
 void test_search(void);
 void test_stock(void);
@@ -22,7 +22,7 @@ int main()
 
 /* Run Test functions */
   RUN_TEST(test_addbook);
-  RUN_TEST(test_displaycomplete);
+  RUN_TEST(test_display);
   RUN_TEST(test_search);
   RUN_TEST(test_stock);
 
@@ -33,9 +33,9 @@ void test_addbook(void)
 {
   TEST_ASSERT_EQUAL(Found,addbook("Books.txt"));
 }
-void test_displaycomplete(void)
+void test_display(void)
 {
-  TEST_ASSERT_EQUAL(Found,displaycomplete("Books.txt"));
+  TEST_ASSERT_EQUAL(Found,display("Books.txt"));
 }
 void test_search(void)
 {
