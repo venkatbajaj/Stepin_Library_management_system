@@ -1,6 +1,6 @@
 #include"lms.h"
 
-void stock()
+int stock()
 {
     int i;
     char Target[500];
@@ -33,4 +33,5 @@ void stock()
             printf("\n\n\tStock:%d\n\n",book.stockavailable); 
          }
     }
+    return Found;
 }
