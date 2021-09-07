@@ -7,7 +7,7 @@
 #include<stdlib.h>
 
 void create(void);
-int displaycomplete();
+int display();
 int addbook();
 void exit1(void);
 int search();
