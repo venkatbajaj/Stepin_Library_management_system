@@ -1,10 +1,9 @@
 #include"lms.h"
 
-void addbook(void)
+int addbook()
 {
-
+int Found=0;
     fp=fopen("Books.txt","a+");
-                        
     printf("Book_id:\n");
     scanf("%d",&book.bookid);
 
@@ -18,13 +17,14 @@ void addbook(void)
     scanf("%d",&book.stockavailable);
 
     fprintf(fp,"\n%d           \t%s           \t%s         \t%d",book.bookid,book.booktitle,book.bookauthor,book.stockavailable);
-
-    fclose(fp);                                                             
+    fclose(fp);
+    Found++;
+    return Found;
 }
 
-
-void displaycomplete(void)
+int displaycomplete()
 {
+    int Found=0;
     char info[500];
     fp=fopen("Books.txt","a+");                       
 
@@ -35,5 +35,7 @@ void displaycomplete(void)
         printf("%s\n",info);
     }
     while(!feof(fp));                                       
-    fclose(fp);                                             
+    fclose(fp);  
+    Found++;
+    return Found;
 }
