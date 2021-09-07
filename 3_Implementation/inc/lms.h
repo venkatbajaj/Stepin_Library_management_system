@@ -6,18 +6,15 @@
 #include<string.h>
 #include<stdlib.h>
 
-
 void create(void);
-void operations(void);
-void displaycomplete(void);
-void addbook(void);
+int displaycomplete();
+int addbook();
 void exit1(void);
-void search(void);
-void author(void);
-void title(void);
-void issue(void);
-void stock(void);
-
+int search();
+int author();
+int title();
+int issue();
+int stock();
 
 struct                                                   
     {
