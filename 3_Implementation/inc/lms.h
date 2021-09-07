@@ -6,7 +6,7 @@
 #include<string.h>
 #include<stdlib.h>
 
-void create(void);
+int create(void);
 int display();
 int addbook();
 void exit1(void);
