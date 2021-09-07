@@ -1,4 +1,4 @@
-
+#include"lms.h"
 
 
 int main(void)
