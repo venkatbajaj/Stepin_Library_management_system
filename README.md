@@ -8,3 +8,4 @@
 [![cppcheck-action](https://github.com/venkatbajaj/Stepin_Library_management_system/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/venkatbajaj/Stepin_Library_management_system/actions/workflows/c-cpp.yml)
 ![](https://www.code-inspector.com/project/28123/score/svg)
 ![](https://www.code-inspector.com/project/28123/status/svg)
+![](https://app.codacy.com/gh/venkatbajaj/Stepin_Library_management_system)
