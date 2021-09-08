@@ -6,7 +6,7 @@ struct book
         char booktitle[200];
         char bookauthor[200];
         int stockavailable;
-    };
+    }book;
 struct student
 {
     int id;
