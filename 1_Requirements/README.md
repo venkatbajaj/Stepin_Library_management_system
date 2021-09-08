@@ -9,8 +9,7 @@
 
 ## Research
 
-*   From ancient times the knowledge is spread by people
-across the world in written form.First, the information is stored by carving words on copper using the sharp tool.
+*   From ancient times the knowledge is spread by people across the world in written form.First, the information is stored by carving words on copper using the sharp tool.
 *   The time the papers are invented and using the ink and feather of bird the information is started to store on paper,which helped a lot for storing purpose.
 *   The methods are really difficult as compared to today’s digitized world, nowadays we can find anything on just one click. Digitization of library helps to keep all the records secured and retrievable which saves the paperwork and made library records easy to store. 
 
@@ -26,20 +25,18 @@ Since the system uses only open source software, it is free of cost.
 *   It saves human efforts and resources.
 *   It can run in both windows and linux operating system.
 
-## Defining Our System
-
 ### Definition
 *   Library Managemnet System does the following functions:
-        *       Add book in database
-        *       Search for a book
-        *       View entire database
-        *       Stock Check
-        *       Issue a book
+        +     Add book in database
+        +     Search for a book
+        +     View entire database
+        +     Stock Check
+        +     Issue a book
 
 ## SWOT ANALYSIS
 ![SWOT ANALYSIS](https://github.com/venkatbajaj/StepIn_Library_management_system/blob/main/1_Requirements/SWOT.png)
 
-# 4W;s and 1H;s
+# 4W&#39 and 1H
 
 ## Who
 
