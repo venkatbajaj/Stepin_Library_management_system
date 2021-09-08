@@ -61,7 +61,7 @@ int main(void)
 
         case 5:
         system("cls");
-        displaycomplete();
+        display();
         printf("\nThe display is complete\n");
         printf("\nPress 0 to main menu or press 1 to exit\n\n");
         scanf("%d",&c);
