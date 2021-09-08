@@ -27,11 +27,12 @@ Since the system uses only open source software, it is free of cost.
 
 ### Definition
 *   Library Managemnet System does the following functions:
-        +     Add book in database
-        +     Search for a book
-        +     View entire database
-        +     Stock Check
-        +     Issue a book
+    + Add book in database
+    + Search for a book
+    + View a book
+    + Delete a book
+    + Update Credentials
+
 
 ## SWOT ANALYSIS
 ![SWOT ANALYSIS](https://github.com/venkatbajaj/StepIn_Library_management_system/blob/main/1_Requirements/SWOT.png)
