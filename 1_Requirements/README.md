@@ -29,41 +29,41 @@ Since the system uses only open source software, it is free of cost.
 
 ## Defining Our System
 
-### Definition:
+### Definition
 *   Library Managemnet System does the following functions:
-        + Add book in database
-        + Search for a book
-        + View entire database
-        + Stock Check
-        + Issue a book
+        *       Add book in database
+        *       Search for a book
+        *       View entire database
+        *       Stock Check
+        *       Issue a book
 
 ## SWOT ANALYSIS
 ![SWOT ANALYSIS](https://github.com/venkatbajaj/StepIn_Library_management_system/blob/main/1_Requirements/SWOT.png)
 
 # 4W&#39;s and 1&#39;H
 
-## Who:
+## Who
 
 This project can be used by all the education institutions and public librares. This system can also be used by people who collect plenty of books.
 
-## What:
+## What
 
 Basic library management system which helps the librarian to access the books.
 
-## When:
+## When
 
 During the times where you cannot find, add and search books in the library. We can 
 
-## Where:
+## Where
 
 In education institutions, public libraries and in-house library.
 
-## How:
+## How
 
 In this project, we can do basic library management task like adding the book, view the added book, search the books, check the stock available and issue a book. This application is based on file handling in C, where I have used a file-related function.
 
 # Detail requirements
-## High Level Requirements:
+## High Level Requirements
 
 | ID | Description | Status |
 | --- | --- | --- |
@@ -75,7 +75,7 @@ In this project, we can do basic library management task like adding the book, v
 | HR06 | User must be able to receive fine for delay in submission of book| Future |
 | HR07 | User must be able to maintain the record of issued books like when,whom etc| Future |
 
-##  Low level Requirements:
+## Low level Requirements
 
 | ID | Description | Status |
 | --- | --- | --- |
