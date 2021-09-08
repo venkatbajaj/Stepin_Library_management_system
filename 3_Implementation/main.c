@@ -72,9 +72,14 @@ int main(void)
             exit1();
         break;
         
-        case 1:create();
+        case 1:
         system("cls");
-
+        printf("\n this wll delete the previous data and create a new data base\n press 0 to continue 1 to exit\n");
+        scanf("%d",&c);
+        if(c==0)
+            create();
+        else
+            exit1();
         printf("\n\nPress 0 to main menu or press 1 to exit\n");
         scanf("%d",&c);
 
