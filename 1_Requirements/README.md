@@ -2,18 +2,18 @@
 
 ## Introduction
 
-* With the advancement in technology,library should bring the change and add new technologies in order to retain customers intrest in visiting the library.Thus in this situation, Library system must be improved and make work easy for staff.  
-* The purspose of LMS is to operate library at reduced cost and efficiently.The system being entirely automated the tasks involved in operaations of library is displayed. The activities of maintaining the books record ,stock checking,storing the records of new books are done by software. Such software reduces human effort and eliminates the need for repetitive manual work and minimizes the chance of errors.
-* The library management system software helps in reducing operational costs. Managing a library manually is labor intensive and an immense amount of paperwork is involved. An automated system reduces the need for manpower and stationery. This leads to lower operational costs.
-* This project helps me to extensively use file handling techniques and understand multiple C programming concepts.
+*   With the advancement in technology,library should bring the change and add new technologies in order to retain customers intrest in visiting the library.Thus in this situation, Library system must be improved and make work easy for staff.  
+*   The purspose of LMS is to operate library at reduced cost and efficiently.The system being entirely automated the tasks involved in operaations of library is displayed. The activities of maintaining the books record ,stock checking,storing the records of new books are done by software. Such software reduces human effort and eliminates the need for repetitive manual work and minimizes the chance of errors.
+*   The library management system software helps in reducing operational costs. Managing a library manually is labor intensive and an immense amount of paperwork is involved. An automated system reduces the need for manpower and stationery. This leads to lower operational costs.
+*   This project helps me to extensively use file handling techniques and understand multiple C programming concepts.
 
 ## Research
 
-* From ancient times the knowledge is spread by people
+*   From ancient times the knowledge is spread by people
 across the world in written form. First, the information is stored by carving words on copper using the sharp tool.
-* The time the papers are invented and using the ink and feather of bird the information is started to store on paper.
+*   The time the papers are invented and using the ink and feather of bird the information is started to store on paper.
 which helped a lot for storing purpose.
-* The methods are really difficult as compared to today’s digitized world, nowadays we can find anything on just one click. Digitization of library helps to keep all the records secured and retrievable which saves the paperwork and made library records easy to store. 
+*   The methods are really difficult as compared to today’s digitized world, nowadays we can find anything on just one click. Digitization of library helps to keep all the records secured and retrievable which saves the paperwork and made library records easy to store. 
 
 ## Cost and Features and Timeline
 
@@ -23,19 +23,19 @@ Since the system uses only open source software, it is free of cost.
 
 ### Features
 
-* The system excludes the use of paper work by managing all the book information electronically.
-* It saves human efforts and resources.
-* It can run in both windows and linux operating system.
+*   The system excludes the use of paper work by managing all the book information electronically.
+*   It saves human efforts and resources.
+*   It can run in both windows and linux operating system.
 
 ## Defining Our System
 
 ### Definition:
-* Library Managemnet System does the following functions:
-    + Add book in database
-    + Search for a book
-    + View entire database
-    + Stock Check
-    + Issue a book
+*   Library Managemnet System does the following functions:
+        + Add book in database
+        + Search for a book
+        + View entire database
+        + Stock Check
+        + Issue a book
 
 ## SWOT ANALYSIS
 ![SWOT ANALYSIS](https://github.com/venkatbajaj/StepIn_Library_management_system/blob/main/1_Requirements/SWOT.png)
