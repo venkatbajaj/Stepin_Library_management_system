@@ -16,3 +16,4 @@
 
 ![](https://www.code-inspector.com/project/28123/status/svg)
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/dd8683d1e3224aca8c95881c80a41a13)](https://www.codacy.com/gh/venkatbajaj/Stepin_Library_management_system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=venkatbajaj/Stepin_Library_management_system&amp;utm_campaign=Badge_Grade)
