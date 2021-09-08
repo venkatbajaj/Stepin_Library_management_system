@@ -4,7 +4,7 @@
 
 ### Architecture Design:
 
-![](https://github.com/venkatbajaj/Stepin_Library_management_system/blob/main/2_Architecture/Architecture Design.png)
+![](https://github.com/venkatbajaj/Stepin_Library_management_system/blob/main/2_Architecture/Architecture_Design.png)
 
 ### Usercase Diagram:
 
