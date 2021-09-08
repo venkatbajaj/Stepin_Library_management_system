@@ -10,9 +10,8 @@
 ## Research
 
 *   From ancient times the knowledge is spread by people
-across the world in written form. First, the information is stored by carving words on copper using the sharp tool.
-*   The time the papers are invented and using the ink and feather of bird the information is started to store on paper.
-which helped a lot for storing purpose.
+across the world in written form.First, the information is stored by carving words on copper using the sharp tool.
+*   The time the papers are invented and using the ink and feather of bird the information is started to store on paper,which helped a lot for storing purpose.
 *   The methods are really difficult as compared to today’s digitized world, nowadays we can find anything on just one click. Digitization of library helps to keep all the records secured and retrievable which saves the paperwork and made library records easy to store. 
 
 ## Cost and Features and Timeline
