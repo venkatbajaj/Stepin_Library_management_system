@@ -1,4 +1,6 @@
 #include"lms.h"
+#include"struct.c"
+
 
 int addbook()
 {
