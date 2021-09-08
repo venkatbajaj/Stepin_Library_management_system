@@ -17,8 +17,8 @@ int create()
         int stockavailable;
     }book[n];
 
-     fp= fopen("Books.txt","a+");                     
-    printf("\n\nEnter the details of the book by two spaces between credentials and no space between each particular credential\n\n");
+     fp= fopen("Books.txt","w");                     // if u create a new data base old data base will be deleted
+    printf("\n\nEnter the details of the books\n\n");
 
 
     printf("Bookid  Booktitle  bookauthor  stockavailable\n");
